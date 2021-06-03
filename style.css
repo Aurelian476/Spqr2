@@ -1,0 +1,34 @@
+body {
+    background-color: black;
+}
+h1 {
+    color: darkred;
+}
+h3 {
+    color: darkred;
+}
+p {
+    color: darkred;
+    
+}
+h2 {
+    color: darkred;
+}
+p:hover {
+    color: mediumblue;
+}
+a {
+    color: darkred;
+}
+a:hover {
+    color: mediumblue;
+}
+li {
+    color: darkred;
+}
+li:hover {
+    color: mediumblue;
+}
+.nonlink:hover {
+    color: darkred;
+}
